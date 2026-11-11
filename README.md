@@ -1,5 +1,9 @@
 # Hand-Written Moon
 
+I asked Fable to do something like on this page: https://matthewgribben.com/blog/building-ai-models-without-gradient-descent
+
+As mentioned in this reddit discussion: https://www.reddit.com/r/ClaudeAI/comments/1xrmui5/fabel_51_can_write_ai_model_weights_directly/ 
+
 A light-transport network for a translucent quasicrystal moon. Every weight is written by
 `build_network.py` from radiative-transfer formulas. No training data, no optimiser.
 
