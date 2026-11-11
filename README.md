@@ -1,5 +1,7 @@
 # Hand-Written Moon
 
+[Try it!](https://anttiluode.github.io/Moon/page/moon.html)
+
 ![pic](pic.png)
 
 I asked Fable to do something like on this page: https://matthewgribben.com/blog/building-ai-models-without-gradient-descent
